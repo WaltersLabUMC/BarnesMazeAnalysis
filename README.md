@@ -29,9 +29,9 @@ cd BarnesMazeAnalysis
 
 See the following documents in the GitHub for detailed user guides:
 
-- Jupyter notebook template
-- Quickstart guide
-- Function Reference documentation
+- [Jupyter notebook template](https://github.com/WaltersLabUMC/BarnesMazeAnalysis/blob/main/Jupyter_notebook_template.ipynb)
+- [Quickstart guide](https://github.com/WaltersLabUMC/BarnesMazeAnalysis/blob/main/Quickstart_guide.pdf)
+- [Function Reference documentation](https://github.com/WaltersLabUMC/BarnesMazeAnalysis/blob/main/Function_reference_documentation.pdf)
 
 ## License
 
